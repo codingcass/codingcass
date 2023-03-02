@@ -8,6 +8,4 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my web development portfolio
 - 🌱 I’m currently learning JavaScript and React
-- 📫 How to reach me: send me an email!
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: uhhhh
+- 📫 How to reach me: Send me an email!
